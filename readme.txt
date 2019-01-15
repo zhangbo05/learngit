@@ -13,7 +13,7 @@ Git has a mutable index called stage
 只是刚好情窦初开遇到了你
 
 我爱上了她
-并决定跟他回家
+决定跟他回家
 放弃了我的所有我的一切无所谓
 <<<<<<< HEAD
 之短情长啊
@@ -26,3 +26,7 @@ createing a new branch is quick and simple
 >>>>>>> feature1
 
 11111111111111111
+
+
+
+wocaoaaaaaaaaaaaaaaaaaaa
