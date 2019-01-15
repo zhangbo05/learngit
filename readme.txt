@@ -29,6 +29,12 @@ createing a new branch is quick and simple
 
 
 
+<<<<<<< HEAD
 w222222222222222222222222222222
 
 rewq
+=======
+w22222222222222222222222222222
+
+qwer
+>>>>>>> issue-101
