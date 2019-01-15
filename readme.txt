@@ -1,5 +1,5 @@
 ﻿G
-it is a distributed version control system.
+t is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage
 我开始美丽的际遇
@@ -30,3 +30,5 @@ createing a new branch is quick and simple
 
 
 w222222222222222222222222222222
+
+rewq
