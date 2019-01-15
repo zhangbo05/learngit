@@ -15,6 +15,12 @@ Git has a mutable index called stage
 我爱上了她
 并决定跟他回家
 放弃了我的所有我的一切无所谓
+<<<<<<< HEAD
 之短情长啊
 
-createing a new branch is quick & simple
+createing a new branch is quick and simple
+=======
+之短情长
+
+createing a new branch is quick and simple
+>>>>>>> feature1
