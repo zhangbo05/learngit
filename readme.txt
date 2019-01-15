@@ -11,3 +11,6 @@ Git has a mutable index called stage
 爱上了你没什么道理
 只是刚好情窦初开遇到了你
 
+我爱上了她
+并决定跟他回家
+放弃了我的所有我的一切无所谓
