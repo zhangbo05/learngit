@@ -1,4 +1,5 @@
-﻿Git is a distributed version control system.
+﻿G
+it is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage
 我开始美丽的际遇
@@ -15,3 +16,5 @@ Git has a mutable index called stage
 并决定跟他回家
 放弃了我的所有我的一切无所谓
 之短情长啊
+
+createing a new branch is quick & simple
