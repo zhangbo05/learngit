@@ -14,4 +14,6 @@ Git has a mutable index called stage
 我爱上了她
 并决定跟他回家
 放弃了我的所有我的一切无所谓
-之短情长啊
+之短情长
+
+createing a new branch is quick and simple
